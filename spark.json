@@ -1,0 +1,7 @@
+{
+    "name": "Arduino-IRremote",
+    "version": "1.0.0",
+    "author": "Someone <email@somesite.com>",
+    "license": "GNU",
+    "description": "Ken Shirriff's Arduino-IRremote library."
+}
