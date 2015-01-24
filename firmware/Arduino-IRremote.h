@@ -13,8 +13,8 @@
 * LG added by Darryl Smith (based on the JVC protocol)
  */
 
-#ifndef IRremote_h
-#define IRremote_h
+#ifndef Arduino-IRremote_h
+#define Arduino-IRremote_h
 
 // The following are compile-time library options.
 // If you change them, recompile the library.
