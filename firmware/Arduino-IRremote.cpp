@@ -21,7 +21,7 @@
 #include "IRremoteInt.h"
 
 // Provides ISR
-#include <avr/interrupt.h>
+// include <avr/interrupt.h>
 
 volatile irparams_t irparams;
 
