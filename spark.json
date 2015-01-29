@@ -1,7 +1,7 @@
 {
-    "name": "Arduino-IRremote",
+    "name": "core-ir",
     "version": "1.0.0",
     "author": "Someone <email@somesite.com>",
     "license": "GNU",
-    "description": "Ken Shirriff's Arduino-IRremote library."
+    "description": "Enables ir tx/rx from spark core."
 }
